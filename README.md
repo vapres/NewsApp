@@ -1,6 +1,6 @@
 # News App
 
-Project is part of Android Course at Route Academy
+Project is for Educational Purpose
 
 ### Project Overview
 The aim is to streamline news consumption by delivering curated, up-to-date information aligned with user interests, offering news feeds from diverse categories powered by [News API](https://newsapi.org/)
@@ -11,7 +11,7 @@ Create a `.properties` file in Resources root `res`
 ```
 API_KEY = YOUR_API_KEY
 ```
-### Features
+### Technical Details
 * MVVM (Model - View - View Model) UI Architecture
 * Jetpack Compose
 * Retrofit (retrofit2)
